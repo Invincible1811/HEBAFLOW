@@ -5,4 +5,4 @@ All rights reserved
 
 PO: Jannik Fuchs
 Sm: Sandra
-Dev: Bernard, Julian
+Dev: Bernard, Julian, Can
