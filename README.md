@@ -4,3 +4,4 @@ This is a project to build a digital assistant for midwives in Berlin, Germany. 
 All rights reserved 
 
 PO: Jannik Fuchs
+Sm: Sandra
