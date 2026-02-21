@@ -2,4 +2,4 @@
 
 PO: Jannik Fuchs
 Sm: Sandra
-Dev: Bernard, Julian, Can, Anna
+Dev: Bernard, Julian, Can, Anna , Tarek
