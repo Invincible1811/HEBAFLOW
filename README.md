@@ -7,3 +7,4 @@ HebaFlow combines smart scheduling, intelligent route planning, and streamlined 
 **PO:** Jannik Fuchs
 **Sm:** Sandra
 **Dev:** Bernard, Julian, Can, Anna , Tarek
+**Julian sucessfully created account
