@@ -1,12 +1,18 @@
-# Hebaflow
+# Juno
 
-**Spend Less Time on Admin.  More Time on Care.**
+**Spend less time on admin. More time on care.**
 
-HebaFlow combines smart scheduling, intelligent route planning, and streamlined communication — so you can focus on what matters most.
+Juno is a field-first tool for midwives and community care teams. It supports **scheduling**, **route planning**, and **clear communication**—so you spend less time coordinating and more time delivering care.
 
-**PO:** Jannik Fuchs
-**Sm:** Sandra
-**Dev:** Bernard, Julian, Can, Anna , Tarek
-**Julian sucessfully created account
+## Website
+- https://getjuno.de
 
-https://hebaflow.lovable.app/
+## Key Features
+- **Scheduling:** Plan visits and weekly workloads in one place.
+- **Route Planning:** Reduce travel time and simplify daily routing.
+- **Communication:** Keep coordination professional and consistent.
+
+## Team
+- **Product Owner (PO):** Jannik Fuchs  
+- **Scrum Master (SM):** Sandra  
+- **Developers:** Bernard, Julian, Can, Anna, Tarek
